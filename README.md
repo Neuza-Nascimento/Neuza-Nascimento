@@ -1,9 +1,11 @@
 # 👋 Olá! Eu sou a Neuza Nascimento
 
-Sou **Desenvolvedora Front-end** curiosa por criar interfaces intuitivas, modernas e responsivas.  
-Gosto de transformar ideias em experiências visuais e funcionais, sempre focando em design limpo e usabilidade.  
+Sou **Estudante da 42 Porto** e actualmente estou a fazer o Comon Core.
+Sou também **Desenvolvedora Front-end** curiosa por criar interfaces intuitivas, modernas e responsivas.  
+Gosto de transformar ideias em experiências visuais e funcionais, sempre focando em design limpo e usabilidade.
 
-- 🎓 Estudante de Informática de Gestão / Profissional de Front-end  
+- 🎓 Estudante de Engenharia de Software na 42 Porto 
+- 🎓 Técnica Média de Informática de Gestão  
 - 💻 Trabalho com tecnologias web modernas  
 - 🌱 Sempre aprendendo novas ferramentas e boas práticas de desenvolvimento  
  
@@ -26,9 +28,4 @@ Gosto de transformar ideias em experiências visuais e funcionais, sempre focand
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual%_)
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neuza-Nascimento&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neuza-Nascimento&layout=compact&theme=radical)
 
