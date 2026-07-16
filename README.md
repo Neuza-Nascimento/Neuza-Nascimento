@@ -1,4 +1,4 @@
-<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dela+Gothic+One&weight=900&size=22&pause=1000&color=478EF7&width=437&height=52&lines=hello%2C+I'm+Neuza+%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=30&pause=1004&color=2D9CCD&width=440&height=56&lines=hello%2C+I'm+Neuza+%3A)" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJhanRucXRsNTdnbXJ6dmx0aTljZzk4YXI2ajV6dnZqM2p3YXJjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R9NAIMkV6QFSQYJQJz/giphy.gif" alt="Coding GIF" width="30%">
