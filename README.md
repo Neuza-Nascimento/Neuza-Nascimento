@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=30&pause=1004&color=2D9CCD&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Neuza+%3A)" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=30&pause=1004&color=FF7500&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Neuza+%3A)" />
 </a>
 
 <br>
@@ -12,29 +12,29 @@
 <br>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=18&pause=1004&color=FF9A07&background=2788B3E1&center=true&vCenter=true&repeat=false&width=300&height=30&lines=Languages" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=18&pause=1004&color=FFFFFF&background=FF7500FF&center=true&vCenter=true&repeat=false&width=300&height=30&lines=LANGUAGES" alt="Typing SVG" /></a>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-
-<br><br>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=18&pause=1004&color=FF9A07&background=2788B3E1&center=true&vCenter=true&repeat=false&width=300&height=30&lines=Design" alt="Typing SVG" /></a>
-
-<img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,c" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py" />
+</p>
 
 <br><br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=18&pause=1004&color=FF9A07&background=2788B3E1&center=true&vCenter=true&repeat=false&width=300&height=30&lines=Others+Tools" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=18&pause=1004&color=FFFFFF&background=FF7500FF&center=true&vCenter=true&repeat=false&width=300&height=30&lines=DESIGN" alt="Typing SVG" /></a>
 
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+<br><br>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=18&pause=1004&color=FFFFFF&background=FF7500FF&center=true&vCenter=true&repeat=false&width=300&height=30&lines=OTHERS+TOOLS" alt="Typing SVG" /></a>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 </div>
 
