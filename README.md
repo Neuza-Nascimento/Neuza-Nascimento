@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Neuza Nascimento
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dela+Gothic+One&weight=800&size=22&pause=1000&color=6070F7&width=437&height=52&lines=hello%2C+I'm+Neuza+%3A)!)](https://git.io/typing-svg)
 
 Sou **Estudante da 42 Porto** e actualmente estou a fazer o Comon Core.
 Sou também **Desenvolvedora Front-end** curiosa por criar interfaces intuitivas, modernas e responsivas.  
