@@ -5,9 +5,9 @@
 </p>
 
 
-<h1 style="color:#478EF7;">Tecnologies &lt;3 </h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&pause=1004&color=2D9CCD&background=FFD11E00&repeat=false&width=440&height=56&lines=Tecnologies+" alt="Typing SVG" /></a>
 
-<h2 style="color:#478EF7;">Languages </h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=18&pause=1004&color=2D9CCD&background=FFD11E00&repeat=false&width=440&height=56&lines=Languages" alt="Typing SVG" /></a>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,12 +17,12 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 
-<h2 style="color:#478EF7;">Design</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=18&pause=1004&color=2D9CCD&repeat=false&width=440&height=56&lines=Design" alt="Typing SVG" /></a>
 
 ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
 
 
-<h2 style="color:#478EF7;">Others</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=18&pause=1004&color=2D9CCD&repeat=false&width=439&height=49&lines=Others+Tools" alt="Typing SVG" /></a>
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
