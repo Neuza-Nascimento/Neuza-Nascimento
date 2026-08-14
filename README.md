@@ -12,27 +12,11 @@
 <br>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=18&pause=1004&color=FFFFFF&background=FF7500FF&center=true&vCenter=true&repeat=false&width=300&height=30&lines=LANGUAGES" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=18&pause=1004&color=FFFFFF&background=FF7500FF&center=true&vCenter=true&repeat=false&width=400&height=30&lines=TOOLS" alt="Typing SVG" /></a>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,c" />
-</p>
-<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,py" />
-</p>
-
-<br><br>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=18&pause=1004&color=FFFFFF&background=FF7500FF&center=true&vCenter=true&repeat=false&width=300&height=30&lines=DESIGN" alt="Typing SVG" /></a>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=react" />
-</p>
-<br><br>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=18&pause=1004&color=FFFFFF&background=FF7500FF&center=true&vCenter=true&repeat=false&width=300&height=30&lines=OTHERS+TOOLS" alt="Typing SVG" /></a>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
