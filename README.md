@@ -59,8 +59,8 @@
 <tr>
 
 <td align="center">
-<a href="https://github.com/Neuza-Nascimento/modules_python">
-<img src="https://github.com/Neuza-Nascimento/Python_Modules" width="120" height="120"/>
+<a href="https://github.com/Neuza-Nascimento/Python_Modules">
+<img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/python_modules_pin.png" width="120" height="120"/>
 </a><br/>
 <p>modules_python</p>
 </td>
